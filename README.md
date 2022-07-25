@@ -1,2 +1,3 @@
 # SmartMeet
-A phone application in Android OS for scheduling meetings developed as part of the PhD. curriculum for the Human Computer Interactions course during the Spring 2017 semester at the University of Texas at El Paso.
+A phone application in Android OS for scheduling meetings.
+<br> This project was a part of the Human Computer Interactions curriculum in Spring 2017 at the University of Texas at El Paso.
